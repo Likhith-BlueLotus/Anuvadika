@@ -11,7 +11,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/Likhith-BlueLotus/Anuvadika.git
 cd Anuvadika
 ```
 
